@@ -30,13 +30,3 @@ cask "rectangle"
 cask "scroll-reverser"
 cask "visual-studio-code"
 cask "zoom"
-mas "Amphetamine", id: 937984704
-mas "Bitwarden", id: 1352778147
-mas "CopyClip", id: 595191960
-mas "Hancom Office HWP 2014 VP Viewer", id: 416746898
-mas "KakaoTalk", id: 869223134
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft PowerPoint", id: 462062816
-mas "Microsoft Remote Desktop", id: 1295203466
-mas "Microsoft Word", id: 462054704
-mas "RunCat", id: 1429033973

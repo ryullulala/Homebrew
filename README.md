@@ -1,14 +1,23 @@
-## INITIAL RELEASE
+## Get Started
+---
 
 ```shell
 $ git clone https://github.com/ryullulala/Brewfile.git ~/Brewfile
 $ brew bundle --file=~/Brewfile/private.Brewfile
 ```
 
-## IF YOU WANT TO MAKE Brewfile
+## If you want to make Brewfile
+---
+
 ```shell
 $ brew bundle dump --file=~/Brewfile/private.Brewfile
 ```
 
+## App Store
 ---
-Authy(mas) is not included..
+KakaoTalk
+Runcat
+Microsoft Remote Desktop
+Amphetamine
+Bitwarden
+Authy
