@@ -1,23 +1,16 @@
-## Get Started
+## Command
 ---
 
 ```shell
 $ git clone https://github.com/ryullulala/Brewfile.git ~/Brewfile
-$ brew bundle --file=~/Brewfile/private.Brewfile
+$ brew bundle # --file=~/Brewfile/Brewfile
 ```
 
-## If you want to make Brewfile
+
+### If you want to make Brewfile
 ---
 
 ```shell
-$ brew bundle dump --file=~/Brewfile/private.Brewfile
+$ brew bundle dump # --file=~/Brewfile/Brewfile
 ```
 
-## App Store
----
-KakaoTalk
-Runcat
-Microsoft Remote Desktop
-Amphetamine
-Bitwarden
-Authy
