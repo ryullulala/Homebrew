@@ -3,6 +3,7 @@
 
 ```shell
 $ git clone https://github.com/ryullulala/Brewfile.git ~/Brewfile
+$ cd ~/Brewfile
 $ brew bundle # --file=~/Brewfile/Brewfile
 ```
 
